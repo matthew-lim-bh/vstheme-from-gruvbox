@@ -1,0 +1,21 @@
+{
+    "name": "newgreendim",
+    "displayName": "NewGreenDim",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "New Green Dim",
+                "uiTheme": "vs-dark",
+                "path": "./themes/New Green Dim-color-theme.json"
+            }
+        ]
+    }
+}
